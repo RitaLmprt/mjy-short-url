@@ -1,0 +1,29 @@
+{
+  "name": "URL Shortener Microservice",
+  "version": "0.0.1",
+  "description": "Simple URL Shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "http": "^0.0.0",
+    "url": "^0.11.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "mongodb",
+    "express",
+    "URL Shortener"
+  ]
+}
